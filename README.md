@@ -1,7 +1,8 @@
 # yapi-smart-doc maven plugin
 
 [![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
-![java version](https://img.shields.io/badge/JAVA-1.8+-green.svg)
+![java version](https://img.shields.io/badge/JAVA-1.8+-orange.svg)
+[![Latest version](https://img.shields.io/badge/Latest-v0.0.3-blue)](https://github.com/dgchong/yapi-smart-doc-maven-plugin/releases/tag/v0.0.3)
 
 ## 一、简介
 &emsp;&emsp; **yapi-smart-doc maven plugin** 是一个基于 [smart-doc](https://github.com/smart-doc-group/smart-doc) 的同步项目接口文档到 [YApi](https://github.com/YMFE/yapi) 平台的maven插件小工具。
